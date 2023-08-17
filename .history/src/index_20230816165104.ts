@@ -4,7 +4,6 @@ import {
   dynamodbDeleteTable,
   dynamodbDescribeTable,
 } from "./aws";
-import vendors from "./data/vendors";
 
 const delay = (ms: number) => new Promise((res) => setTimeout(res, ms));
 

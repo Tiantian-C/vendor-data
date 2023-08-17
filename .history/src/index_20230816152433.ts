@@ -1,0 +1,2 @@
+import { dynamodbCreateTable } from "./aws";
+

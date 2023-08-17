@@ -5,7 +5,7 @@
   "repository": "git@github.com:Tiantian-C/vendor-data.git",
   "license": "MIT",
   "scripts":{
-    "start": "node \"build/index.js\""
+    "start":"node \'build/index.js'"
   },
   "dependencies": {
     "@aws-sdk/util-dynamodb": "^3.391.0",
